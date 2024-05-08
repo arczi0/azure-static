@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arczy</title>
+    <link>/</link>
+    <description>Recent content on Arczy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 06 May 2024 22:19:34 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post</title>
+      <link>/blog/post/</link>
+      <pubDate>Mon, 06 May 2024 22:19:34 +0200</pubDate>
+      
+      <guid>/blog/post/</guid>
+      <description>test post</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/pages/contact/</link>
+      <pubDate>Mon, 06 May 2024 21:35:44 +0200</pubDate>
+      
+      <guid>/pages/contact/</guid>
+      <description>You can contact with me via e-mail: hello (at) arczy.pl</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Mon, 06 May 2024 21:34:15 +0200</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>Hello. 👋 More information will be here soon.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>/hello-world/</link>
+      <pubDate>Mon, 06 May 2024 21:30:00 +0200</pubDate>
+      
+      <guid>/hello-world/</guid>
+      <description> print(&amp;quot;Hello world&amp;quot;) </description>
+    </item>
+    
+  </channel>
+</rss>
